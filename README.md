@@ -4,7 +4,7 @@ Aplikasi web open source untuk menampilkan berita terbaru dari seluruh dunia men
 
 ## Fitur
 - List view: Daftar berita terbaru, filter kategori, dan pencarian berita.
-- Detail view: Lihat detail berita, gambar, tanggal, author, dan share link.
+- Detail view: Lihat detail berita, gambar, tanggal, dan author.
 - Loading & error handling yang user-friendly.
 - UI/UX modern dengan Ant Design.
 
@@ -12,7 +12,10 @@ Aplikasi web open source untuk menampilkan berita terbaru dari seluruh dunia men
 1. **Install dependencies:**
    ```bash
    npm install
-   Jika error npm install --legacy-peer-deps
+   ```
+   Jika error pakai
+   ```bash
+   npm install --legacy-peer-deps
    ```
 2. **Dapatkan API Key dari [NewsAPI](https://newsapi.org/)**
 3. **Buat file `.env.local` di root project:**
@@ -41,6 +44,7 @@ npm run test
 npm run build
 npm run start
 ```
+Production harusnya berjalan di http://localhost:3000
 
 ## Struktur Project
 ```
