@@ -28,7 +28,7 @@ Aplikasi web open source untuk menampilkan berita terbaru dari seluruh dunia men
    ```
 5. **Demo**
    ```bash
-   Jalankan secara lokal di http://localhost:3000
+   Jalankan secara lokal di `http://localhost:3000`
    ```
 
 ## Testing
@@ -44,7 +44,7 @@ npm run test
 npm run build
 npm run start
 ```
-Production harusnya berjalan di http://localhost:3000
+Production harusnya berjalan di `http://localhost:3000`
 
 ## Struktur Project
 ```
@@ -64,6 +64,6 @@ styles/              # Styling
 - [NewsAPI](https://newsapi.org/)
 - [Jest](https://jestjs.io/) + [Testing Library](https://testing-library.com/)
 
-## Test component jest passed + Test Algoritma
-- File test component with jest passed ada pada file Test_with_jest.png
-- File hasil test algoritma berada di dalam file eigen_test_algoritma.zip
+## Test Component Jest Passed + Test Algoritma
+- File Component Jest Passed ada pada file `Test_with_jest.png`
+- File hasil test algoritma berada di dalam file `eigen_test_algoritma.zip`
