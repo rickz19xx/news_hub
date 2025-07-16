@@ -36,7 +36,7 @@ npm run test
 - Mock `window.matchMedia` sudah otomatis aktif di semua test (lihat `jest.setup.js`).
 - Jika ada error terkait Ant Design dan matchMedia, pastikan tidak mengubah setup Jest dan mock.
 
-## ⚙️ Build Production
+## Build Production
 ```bash
 npm run build
 npm run start
