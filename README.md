@@ -63,3 +63,7 @@ styles/              # Styling
 - [Ant Design](https://ant.design/)
 - [NewsAPI](https://newsapi.org/)
 - [Jest](https://jestjs.io/) + [Testing Library](https://testing-library.com/)
+
+## Test component jest passed + Test Algoritma
+File test component with jest passed ada pada file Test_with_jest.png
+File hasil test algoritma berada di dalam file eigen_test_algoritma.zip
