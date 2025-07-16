@@ -24,9 +24,9 @@ Aplikasi web open source untuk menampilkan berita terbaru dari seluruh dunia men
    npm run dev
    ```
 5. **Demo**
-```bash
-Jalankan secara lokal di http://localhost:3000
-```
+   ```bash
+   Jalankan secara lokal di http://localhost:3000
+   ```
 
 ## Testing
 Jalankan semua test dengan:
@@ -53,7 +53,7 @@ lib/                 # Helper/API
 styles/              # Styling
 ```
 
-## 🧩 Stack Teknologi
+## Stack Teknologi
 - [Next.js](https://nextjs.org/) (App Router)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Ant Design](https://ant.design/)
